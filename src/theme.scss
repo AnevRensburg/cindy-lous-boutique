@@ -1,0 +1,36 @@
+/* Generated from sites/cindy-lous-boutique/site.json. */
+:root {
+  --bg: #f8fcfb;
+  --bg-alt: #e6f3f1;
+  --surface: #ffffff;
+  --ink: #14282a;
+  --muted: #52696c;
+  --line: #d3e7e4;
+  --accent: #1f8a8a;
+  --accent-strong: #176868;
+  --accent-ink: #ffffff;
+  --accent-soft: #d4eeec;
+  --accent-on-dark: #8fd6d3;
+  --dark: #12282a;
+  --dark-ink: #f8fcfb;
+  --error: #b42318;
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-body: 'Nunito Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 25%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #14282a;
+  --topbar-line: #d3e7e4;
+  --product-fit: cover;
+  --product-bg: #f8fcfb;
+  --logo-bg: #ffffff;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
